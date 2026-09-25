@@ -16,7 +16,6 @@ Senior Data Engineer with 9+ years building enterprise-grade data lakes, lakehou
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aks1993)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=githubpages&logoColor=white)](https://nikuamit.github.io)
-<!-- TODO(parent): replace with Track C's real production URL -->
 [![Vercel Portfolio](https://img.shields.io/badge/Vercel_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nikuamit-portfolio.vercel.app)
 [![Amavya](https://img.shields.io/badge/Amavya-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://amavya.vercel.app)
 
@@ -41,7 +40,7 @@ Senior Data Engineer with 9+ years building enterprise-grade data lakes, lakehou
 - **[Astra Data Platform](https://github.com/nikuamit/astra-data-platform)** — Bronze/Silver/Gold medallion lakehouse with Kafka streaming, a PySpark DQ engine, SCD2 and Delta Lake; CI green, v0.1.0 released.
 - **[Amavya](https://amavya.vercel.app)** — AI for every Indian in 22 languages ([source](https://github.com/nikuamit/amavya)).
 - **[Portfolio](https://nikuamit.github.io)** — GitHub Pages portfolio site.
-- **[Vercel Portfolio](https://nikuamit-portfolio.vercel.app)** — newer portfolio build, in progress.
+- **[Vercel Portfolio](https://nikuamit-portfolio.vercel.app)** — modern Next.js/Tailwind build of the same resume-accurate profile.
 
 ---
 
