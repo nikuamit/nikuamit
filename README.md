@@ -2,7 +2,9 @@
 
 # Amit Kumar Sahu
 
-### Senior / Lead Data Engineer · 9+ years · Lakehouse, streaming & semantic data platforms
+### Lead Data Engineer — building lakehouse & semantic platforms at scale
+
+**Senior / Lead / Staff roles · 9+ years · Pharma & SaaS**
 
 </div>
 
@@ -27,11 +29,11 @@ Senior Data Engineer with 9+ years building enterprise-grade data lakes, lakehou
 
 | Company | Role | Dates | What I owned | Outcome |
 |---|---|---|---|---|
-| **Kenko AI** | Senior Data Engineer | Feb 2026 – Apr 2026 | AWS lakehouse (Iceberg) for 500+ tenants, Cube Cloud semantic layer, DQ framework | Latency −45%, SLA 70%→98%, incidents −60%, BI licensing −35% |
-| **Eli Lilly and Company** | Engineer II, Software Config & Dev | Feb 2021 – May 2024 | 20+ reusable Data Products, Axon Data Catalog, clinical data migration | 200K+ assets catalogued, 5+TB migrated, onboarding +60% |
-| **AspireNXT Pvt. Ltd.** | Data Engineer | Aug 2019 – Jun 2020 | Led 5-engineer team, AWS data lake pipelines | 10+TB migrated, velocity +30%, latency −40% |
-| **SpanIdea Systems** | Senior Software Engineer | Jan 2019 – Jul 2019 | Span Park IoT smart-parking pipeline | Search time −50%, responsiveness +40% |
-| **Infosys** (client: Daimler AG) | Senior Systems Engineer | Aug 2015 – Dec 2018 | ETL automation across 12+ projects | Downtime −20%, manual effort −30% |
+| **Kenko AI** | Senior Data Engineer | Feb 2026 – Apr 2026 | AWS lakehouse (Iceberg) for 500+ tenants, Cube Cloud LDM (18 cubes across Finance, Memberships, Classes, Marketing), DQ framework | Latency −45%, SLA 70%→98%, incidents −60%, BI licensing −35% |
+| **Eli Lilly and Company** | Engineer II, Software Config & Dev | Feb 2021 – May 2024 | 20+ reusable Data Products/DWS APIs across 5+ teams, Axon Data Catalog, clinical data migration | 200K+ assets catalogued, 5+TB migrated, onboarding +60%, incident response −40% via ServiceNow |
+| **AspireNXT Pvt. Ltd.** | Data Engineer | Aug 2019 – Jun 2020 | Led 5-engineer team, AWS data lake pipelines, weekly knowledge-sharing sessions | 10+TB migrated, velocity +30%, latency −40%, productivity +20%, onboarding −50% |
+| **SpanIdea Systems** | Senior Software Engineer | Jan 2019 – Jul 2019 | Span Park IoT smart-parking pipeline (Python, C, Raspberry Pi) | Search time −50% via real-time availability tracking |
+| **Infosys** (client: Daimler AG) | Senior Systems Engineer | Aug 2015 – Dec 2018 | ETL automation with RCA/on-call support across 12+ projects | Downtime −20%, automation efficiency +15%, manual effort −30% |
 
 ---
 
